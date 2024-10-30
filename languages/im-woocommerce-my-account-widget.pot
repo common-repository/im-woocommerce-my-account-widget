@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-10 00:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: im-woocommerce-my-account-widget.php:17
+msgid "IM WooCommerce My Account Widget shows order & account data"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:18
+msgid "IM WooCommerce My Account Widget"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:36
+msgid "Logged out title:"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:37 
+#: im-woocommerce-my-account-widget.php:126
+msgid "Customer Login"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:39
+msgid "Logged in title:"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:40 
+#: im-woocommerce-my-account-widget.php:128
+msgid "Welcome %s"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:43
+msgid "Show link to shopping cart"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:46
+msgid "Show link to orders page"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:49
+msgid "Show link to address page"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:52
+msgid "Show link to account details"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:55
+msgid "Show number of items in cart"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:59 
+#: im-woocommerce-my-account-widget.php:62
+msgid "Show number of uploads left"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:65
+msgid "Show number of unpaid orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:67
+msgid "Show number of uncompleted orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:69
+msgid "Show logout link"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:71
+msgid "Redirect to page after login:"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:74
+msgid "Select page"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:86
+msgid "Other options"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:88
+msgid "Login with email address"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:159 
+#: im-woocommerce-my-account-widget.php:159 
+#: im-woocommerce-my-account-widget.php:269 
+#: im-woocommerce-my-account-widget.php:355 
+#: im-woocommerce-my-account-widget.php:355
+msgid "View your shopping cart"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:240 
+#: im-woocommerce-my-account-widget.php:240
+msgid "My Account"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:245
+msgid "View your orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:246
+msgid "Orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:252
+msgid "View your address"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:253
+msgid "Address"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:260 
+#: im-woocommerce-my-account-widget.php:261
+msgid "Account details"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:271
+msgid "product in your shopping cart"
+msgid_plural "products in your shopping cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: im-woocommerce-my-account-widget.php:280 
+#: im-woocommerce-my-account-widget.php:289
+msgid "file to upload"
+msgid_plural "files to upload"
+msgstr[0] ""
+msgstr[1] ""
+
+#: im-woocommerce-my-account-widget.php:287
+msgid "Upload files"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:295
+msgid "Pay orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:297
+msgid "payment required"
+msgid_plural "payments required"
+msgstr[0] ""
+msgstr[1] ""
+
+#: im-woocommerce-my-account-widget.php:303
+msgid "View uncompleted orders"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:305
+msgid "order pending"
+msgid_plural "orders pending"
+msgstr[0] ""
+msgstr[1] ""
+
+#: im-woocommerce-my-account-widget.php:311 
+#: im-woocommerce-my-account-widget.php:311
+msgid "Log out"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:325
+msgid "Login failed, please try again"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:332
+msgid "Username"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:333
+msgid "Password"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:334
+msgid "Remember Me"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:335
+msgid "Log In"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:349
+msgid "Lost password?"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:352 
+#: im-woocommerce-my-account-widget.php:352
+msgid "Register"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:419
+msgid "Please fill in your username and password"
+msgstr ""
+
+#: im-woocommerce-my-account-widget.php:442
+msgid "Username or Email"
+msgstr ""
+
+#. Name of the plugin
+msgid "IM WooCommerce Account Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows woocommerce account data in a widget."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/im-woocommerce-my-account-widget/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fabio Folcio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.i-motion.it"
+msgstr ""
